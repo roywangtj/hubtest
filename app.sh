@@ -1,1 +1,1 @@
-"git exercise" 
+echo "git exercise" 
