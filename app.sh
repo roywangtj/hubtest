@@ -1,1 +1,1 @@
-echo "git exercise" 
+echo "git exercise from second branch" 
